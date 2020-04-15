@@ -1,0 +1,7 @@
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\bin\Debug\ResponsiPemrograman2832.exe.config
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\bin\Debug\ResponsiPemrograman2832.exe
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\bin\Debug\ResponsiPemrograman2832.pdb
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\obj\Debug\ResponsiPemrograman2832.csproj.CoreCompileInputs.cache
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\obj\Debug\ResponsiPemrograman2832.exe
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\obj\Debug\ResponsiPemrograman2832.pdb
+E:\praktikum\ResponsiPemrograman2832\ResponsiPemrograman2832\obj\Debug\ResponsiPemrograman2832.csprojAssemblyReference.cache
